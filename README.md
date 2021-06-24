@@ -1,12 +1,12 @@
 
-#### home_page
-  - nothing
-#### starts
-  - https://github.com/stars
-
 #### primary_projects
   - nothing
+
 #### secondary_projects
   - nothing
-#### learning
+
+#### try
   - nothing
+
+#### start
+  - https://github.com/stars
