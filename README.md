@@ -10,7 +10,7 @@
   - nothing
 
 #### awesome
-  - nothing
+  - [awsome-front-end-resource](https://github.com/kromalee/kromalee/awsome-front-end-resource)
 
 #### book
   - nothing
