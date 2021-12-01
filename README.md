@@ -12,8 +12,8 @@
 #### awesome
   - [awsome-front-end-resource](https://github.com/kromalee/kromalee/awsome-front-end-resource)
 
-#### book
-  - nothing
+#### wiki
+  - [Notion Wiki](https://www.notion.so/kromalee/Home-2a5719180eab4b769013c990194ee418)
 
 #### stars
   - [Github Stars](https://github.com/stars)
