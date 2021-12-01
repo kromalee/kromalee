@@ -16,4 +16,5 @@
   - nothing
 
 #### stars
-  - https://github.com/stars
+  - [Github Stars](https://github.com/stars)
+  - [Bookmark](https://kromalee.github.io/bookmark/)
