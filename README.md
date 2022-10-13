@@ -11,7 +11,7 @@
   
 #### workspace
   - [Notion Wiki](https://www.notion.so/kromalee/Home-2a5719180eab4b769013c990194ee418)
-
+  - [Obsidian Wiki](https://github.com/kromalee/obsidian-vault)
 #### awesome
   - [awesome-front-end-resource](https://github.com/kromalee/kromalee/awesome-front-end-resource)
 
