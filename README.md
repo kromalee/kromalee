@@ -20,7 +20,7 @@
   - [Bookmark](https://kromalee.github.io/bookmark/)
 
 #### tags:
-  - demo for a product 技术实践
+  - demo for a technology 技术实践
   - project/package for do something 技术产品
   - data/config  数据/软件配置
   - awesome for resources 资源
