@@ -5,13 +5,7 @@
 | demo      |                                                              |
 | package   |                                                              |
 | project   |                                                              |
+| config    |                                                              |
 | workspace | [Notion Wiki](https://www.notion.so/kromalee/Home-2a5719180eab4b769013c990194ee418) [Obsidian Wiki](https://github.com/kromalee/obsidian-vault) |
 | awesome   | [front-end-res](https://github.com/kromalee/kromalee/awesome-front-end-resource) |
 | starts    | [Github Stars](https://github.com/stars)                     |
-
-
-  - demo for a technology 技术实践
-  - project/package for do something 技术产品
-  - data/config  数据/软件配置
-  - awesome for resources 资源
-  - bible & roadmap 个人积累和路线图
