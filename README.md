@@ -6,6 +6,6 @@
 | package   |                                                              |
 | project   |                                                              |
 | config    |                                                              |
-| workspace | [Notion Wiki](https://www.notion.so/kromalee/Home-2a5719180eab4b769013c990194ee418) [Obsidian Wiki](https://github.com/kromalee/obsidian-vault) |
-| awesome   | [front-end-res](https://github.com/kromalee/awesome-front-end-resource) |
+| workspace | [Notion](https://www.notion.so/kromalee/Home-2a5719180eab4b769013c990194ee418)  [Obsidian](https://github.com/kromalee/obsidian-vault) |
+| awesome   | [前端学习资源](https://github.com/kromalee/awesome-front-end-resource) |
 | starts    | [Github Stars](https://github.com/stars)                     |
