@@ -25,3 +25,8 @@
   - data/config  数据/软件配置
   - awesome for resources 资源
   - bible & roadmap 个人积累和路线图
+| type | content |
+| ---- | ------- |
+|      |         |
+|      |         |
+|      |         |
