@@ -2,7 +2,7 @@
 
 | type      | content                                                      |
 | --------- | ------------------------------------------------------------ |
-| demo      |                                                              |
+| demo      | [vuepress](https://kromalee.github.io/vuepress-demo/)                                                             |
 | package   |                                                              |
 | project   |                                                              |
 | config    |                                                              |
