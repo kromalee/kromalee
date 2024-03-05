@@ -1,6 +1,6 @@
 | type      | content                                                      |
 | --------- | ------------------------------------------------------------ |
-| demo/snippet| [vuepress](https://kromalee.github.io/vuepress-demo/)        |
+| demo/snippet| [vuepress](https://kromalee.github.io/vuepress-demo/) [algorithm](https://github.com/kromalee/algorithm-demo) |
 | package   | [html5-rtsp-player](https://github.com/kromalee/html5_rtsp_player) |
 | project   |                                                              |
 | template  |                                                              |
